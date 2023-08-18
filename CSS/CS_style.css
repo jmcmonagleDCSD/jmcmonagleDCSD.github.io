@@ -99,5 +99,23 @@ body{
 }
 
 .content .card{
-    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 800px;
+    background-color: #4B8673;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.card ul{
+    display: inline-block;
+    text-align: left;
+}
+.card div{
+    width: 45%;
+}
+.card img{
+    width: 100%
 }
