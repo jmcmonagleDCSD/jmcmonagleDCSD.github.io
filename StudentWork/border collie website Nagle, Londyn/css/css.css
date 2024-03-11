@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(247, 11, 129);
+}
+p{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    border-style: dotted;
+    border-width: 1000;
+    border-color: mediumblue ;
+    float: right;
+}
+
+.box{
+    background-color: rgb(1  28, 169, 244);
+    float: left;
+}
+
+.boxtwo{
+    background-color: darkturquoise;
+    float: left;
+}
+
+.boxthree{
+    background-color: skyblue;
+    float: left;
+}
+
+.boxfour{
+    background-color: aqua;
+    float: left;
+}
+
+

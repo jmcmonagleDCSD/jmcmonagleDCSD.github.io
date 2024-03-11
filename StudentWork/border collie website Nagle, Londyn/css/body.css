@@ -1,0 +1,51 @@
+body{
+    background: lightskyblue;
+}
+.boxone{
+    background-color: coral;
+    height: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+.box{
+    background-color: coral;
+    height: 500px;
+    width: 220px;
+    float: left;
+    margin-left: 50px;
+}
+.boxthree{
+    background-color: coral;
+    height: 500px;
+    width: 220px;
+    float: left;
+    margin-left: 50px;
+}
+.boxfour{
+   background-color: coral; 
+   height: 500px;
+   width: 220px;
+   float: left;
+   margin-left: 50px;
+}
+.boxx{
+    background-color: coral;
+    height: 200px;
+    clear: both; 
+    margin-bottom: 50px;
+}
+.bxx{
+    background-color: crimson;
+    height: 150px;
+    width: 150px;
+    margin-left: 350px;
+    font-size: 140px;
+}
+.boxx p{
+  background-color: green;
+  height:50px ;
+}
+
+
+
