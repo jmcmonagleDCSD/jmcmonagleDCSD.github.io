@@ -1,0 +1,22 @@
+.watsonone{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    float: left;
+    Margin: 45px;
+   }
+   
+   .watsontwo{
+       background-color: grey;
+       height: 300px;
+       width: 300px;
+       float: left;
+       Margin: 45px;
+   }
+   .watsonthree{
+       background-color: black;
+       height: 300px;
+       width: 300px;
+       float: left;
+       Margin: 45px;
+   }

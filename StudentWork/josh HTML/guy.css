@@ -1,0 +1,22 @@
+.guyone{
+ background-color: red;
+ height: 300px;
+ width: 300px;
+ float: left;
+ Margin: 500px;
+}
+
+.guytwo{
+    background-color: grey;
+    height: 300px;
+    width: 300px;
+    float: left;
+    Margin: 500px;
+}
+.guythree{
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    float: left;
+    Margin: 500px;
+}

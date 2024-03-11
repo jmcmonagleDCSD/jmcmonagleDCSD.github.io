@@ -1,0 +1,27 @@
+practicepage4.css
+p{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    padding: 20px;
+    border-style: solid;
+    border-width: 10px ;
+}
+
+
+
+.boxone{
+    background-color: darkred;
+margin: left;
+}
+
+.boxtwo{ 
+    background-color: blue;
+margin: left;
+}
+
+.boxthree{
+    background-color: yellow;
+margin: auto;
+}

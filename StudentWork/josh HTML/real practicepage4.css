@@ -1,0 +1,26 @@
+p{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    padding: 20px;
+    border-style: solid;
+    border-width: 10px ;
+}
+
+.watsonone{
+    background-color: darkred;
+    float: left;
+}
+
+.watsontwo{ 
+    background-color: blue;
+float: right;
+}
+
+.watsonthree{
+    background-color: yellow;
+    clear: both;
+margin: auto;
+}
+    
