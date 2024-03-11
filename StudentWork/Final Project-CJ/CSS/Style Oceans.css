@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(#00A1E4,#0051F2,#0000FF,#1115AE,#0B0E6F);
+    color:#7DF9FF;
+    
+}
+h1{
+    text-align: center;
+    border-style: ridge;
+}
+.nautilus{
+    width:30%;
+    float:right;
+    clear:both;
+}
+.nautilusp{
+    float: right;
+    clear:both;
+    margin-bottom:20px ;
+    margin-left: 20px;
+}
+p{
+    font-size: 20px;
+}
+.Megalodonsize{
+    width:40%;
+    float:right;
+    clear: both;
+}
+.Megsize{
+    float: right;
+    clear:both;
+}
+
+p{
+    font-family: Didact Gothic;
+}

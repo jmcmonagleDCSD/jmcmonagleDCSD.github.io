@@ -1,0 +1,33 @@
+.Mosasaurimg{
+    width:40%;
+    float:right;
+}
+body{
+    background-color: aqua;
+    
+}
+.MOsasaur{
+    float: right;
+    clear: both;
+}
+p{
+    font-size: 20px;
+    font-family: Madimi One;
+}
+h2{
+    font-family: Madimi One;
+}
+h1{
+    font-family: Madimi One;
+    border-style: dotted;
+    text-align: center;
+}
+.Xiphactinus{
+    float: right;
+    clear:both;
+    width:30%;
+}
+.Xiphactinusp{
+    float: right;
+    clear:both;
+}
