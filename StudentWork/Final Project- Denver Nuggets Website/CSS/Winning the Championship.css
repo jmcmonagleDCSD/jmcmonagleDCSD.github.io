@@ -1,0 +1,47 @@
+body{
+    background-image: url(../IMAGES/jokic-championship\ \(2\).jpg);
+}
+
+h1{
+    text-align:center;
+    color: rgb(25, 136, 232);
+    border-width: 5px;
+    border-color: gold;
+    border-style: solid;
+}
+
+.maintext{
+    color: rgb(182, 234, 255);
+    text-align: center;
+    background-color: rgb(0, 45, 127);
+    margin-top: 60px;
+}
+
+ol{
+    text-align: center;
+    margin-top: 10px;
+    background-color: blue;
+    color: aqua;
+}
+
+h2{
+    text-align: center;
+    margin-top: 70px;
+    background-color: blue;
+    color: aqua;
+}
+
+a{
+    color: goldenrod;
+}
+
+.finaline{
+    background-color: rgb(112, 0, 22);
+    color: rgb(242, 206, 4);
+    text-align:center;
+    margin-top: 200px;
+    border-color: blue;
+    border-width: 5px;
+    border-style: dotted;
+    border-radius: 10px;
+}

@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(6, 0, 48);
+
+}
+
+h1{
+    text-align:center;
+    color:rgb(236, 206, 56) ;
+    border-width: 11px;
+    border-color: rgb(59, 110, 205);
+    border-radius: 12px;
+    border-style:double;
+}
+
+a{
+    color:aqua;
+}
+
+button{
+    text-align:center;
+    display:flex;
+    margin:auto;
+}
+
+.firsttext{
+    color:rgb(100, 100, 255);
+    text-align:center;
+
+}
+
+img{
+    margin:auto;
+    display:block;
+}
+
+.source{
+    color:gold;
+    text-align:center;
+}
+
+.maininfo{
+    color:rgb(111, 211, 211);
+    text-align:center;
+}
+
+.goldenline{
+    color:rgb(183, 138, 25);
+    background-color: rgb(24, 24, 131);
+    border-color: rgb(0, 170, 255);
+    border-width: 1px;
+    border-radius: 50px;
+    text-align: center;
+    margin-top: 50px;
+}

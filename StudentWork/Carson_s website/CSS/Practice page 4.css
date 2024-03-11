@@ -1,0 +1,45 @@
+
+p{
+    background-color:aquamarine;
+    height:200px;
+    width:200px;
+    margin:50px;
+    padding:20px;
+    border-style:solid;
+    border-width:10px;
+}
+
+.fullboxed{
+    background-color:blueviolet;
+    float:left;
+}
+
+.fullboxedtwo{
+background-color: black;
+float:right;
+}
+
+.fullboxedthree{
+    background-color: bisque;
+    clear:both;
+    margin:auto;
+}
+
+.basbeall{
+    background-color:bisque;
+    overlfow
+}
+
+.basbeall h1{
+    color:brown
+}
+
+.basbeall img{
+    float:left;
+    width:40%;
+}
+
+.basbeall p{
+    float:right;
+    width:40%;
+}

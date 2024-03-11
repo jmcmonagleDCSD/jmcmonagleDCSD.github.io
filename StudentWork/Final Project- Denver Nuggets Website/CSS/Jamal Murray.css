@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(77, 33, 236);
+}
+a{
+    color:rgb(255, 217, 0)
+}
+h1{
+    text-align: center;
+    color: rgb(60, 135, 255);
+    background-color: darkblue;
+    border-radius: 10px;
+}
+.leftpic{
+    float:left;
+
+}
+
+.rightpic{
+    float:right;
+}
+
+.smalltext{
+    clear:both;
+    text-align: center;
+    color: rgb(0, 51, 95);
+    background-color: rgb(0, 123, 255);
+    border-width: 1px;
+    border-color: darkgoldenrod;
+    border-radius: 5px;
+}
+.maintext{
+    clear:both;
+    text-align: center;
+    color: rgb(101, 72, 0);
+    background-color: rgb(82, 157, 210);
+    margin-top: 100px;
+}
+h4{
+    text-align:center;
+}
+.source{
+    color: yellow;
+}
+.smalltext h5{
+    background-color: rgb(5, 115, 245);
+    color: black;
+}
+
+.list{
+    text-align: center;
+    color: gold;
+    border-width: 7px;
+    border-radius: 50px;
+    margin-top: 100px;
+}

@@ -1,0 +1,46 @@
+h1{
+    border-width: 8px;
+    border-color: gold;
+    border-style: double;
+    text-align: center;
+    color: rgb(255, 208, 0);
+    border-radius: 25%;
+}
+body{
+background-color: rgb(87, 87, 255);
+
+}
+img{
+    margin:auto;
+    display: block;
+}
+
+a{
+    color:yellow ;
+}
+p{
+    color: rgb(255, 208, 0);
+    text-align: center;
+    border-radius: 60%;
+    border-width: 50%;
+    border-color: dodgerblue;
+    border-style: solid;
+    box-decoration-break: slice;
+}
+.source{
+    text-align: center;
+    color: cyan;
+}
+.maintext{
+    color:  rgb(0, 36, 103);
+    size: 16px;
+    border: 0px;
+}
+
+h3{
+    text-align:center;
+    color: rgb(202, 162, 0);
+    margin-top: 80px;
+    background-color: rgb(55, 55, 255);
+    border-radius: 25px;
+}
