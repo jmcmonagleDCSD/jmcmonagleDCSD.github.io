@@ -1,0 +1,12 @@
+/* colors:
+Blue - #1f499a
+Black - #000000
+Darker Grey - #d1d2d4
+light Grey - #e7e7e8
+*/
+
+body{
+    background-color: #d1d2d4;
+    color: #000000;
+    font-size: 100%;
+}

@@ -1,14 +1,14 @@
 body{
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color:  #F6FBF4;
 }
 
 .navbar{
+    color: #000000;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #4B8673;
+    background-color: #d1d2d4;
     padding: 10px;
 }
 
@@ -16,7 +16,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #4B8673;
+    background-color: #d1d2d4;
     padding: 10px;
 }
 
@@ -31,9 +31,8 @@ body{
 }
 
 .dropbtn{
-    color: #F5DF99;
     text-decoration: none;
-    background-color: #4B8673;
+    background-color: #d1d2d4;
     padding: 12px;
     font-size: 16px;
     border: none;
@@ -42,7 +41,7 @@ body{
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: red;
+    background-color: #d1d2d4;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -50,12 +49,12 @@ body{
   
 .dropbtn:hover{
     color: #F6FBF4;
+    background-color: rgba(31, 73, 154, .4);
 }
 
 .navbar a{
-    color: #F5DF99;
+    color: #000000;
     text-decoration: none;
-    background-color: #4B8673;
     padding: 10px;
 }
 
@@ -66,6 +65,7 @@ body{
 
 .navbar a:hover{
     color: #F6FBF4;
+    background-color: rgba(31, 73, 154, .4);
 }
 
 .dropdown:hover .dropdown-content{
@@ -81,7 +81,10 @@ body{
 }
 
 .banner h1{
-    color: #F5DF99;
+    position: relative;
+    top: 45%;
+    text-shadow: 3px 3px 8px  #e7e7e8;
+    color: #1f499a;
     font-size: 60px;
     text-align: center;
 
